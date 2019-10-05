@@ -1,2 +1,2 @@
-# IFC-Material-Catalog
+# MaterialPass
 Material Catalog based on IFC
