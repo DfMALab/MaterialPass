@@ -1,4 +1,7 @@
-# MaterialPass
+<p align="center">
+  <img width="200" height="98" src="https://github.com/IfcXtreme/MaterialPass/blob/master/asset/img/MaterialPass.png">
+</p>
+
 **Advanced materials not only for Design but also for Simulation**
 
 MaterialPass materials are advanced not only for Design but also for Simulation
