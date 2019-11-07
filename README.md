@@ -10,7 +10,7 @@ MaterialPass materials as digital catalogs not only hold [Physically Based Rende
 ### Proposal
 
 <p align="center">
-  <img width="762" height="762" src="https://github.com/IfcXtreme/MaterialPass/blob/master/asset/img/MaterialPass%2C%20ProductPass%2C%20FacilityPass.png" alt="MatrialPass (Material Passport), ProductPass (Product Passport), FacilityPass (Facility Passport)">
+  <img width="381" height="381" src="https://github.com/IfcXtreme/MaterialPass/blob/master/asset/img/MaterialPass%2C%20ProductPass%2C%20FacilityPass.png" alt="MatrialPass (Material Passport), ProductPass (Product Passport), FacilityPass (Facility Passport)">
 </p>
 
 
