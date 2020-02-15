@@ -15,10 +15,10 @@ MaterialPass materials as digital catalogs not only hold [Physically Based Rende
 
 In this way, we can decouple geometry and semantics
 
-* Geometry - As we all know there are many geometry (modeling) paradigms, which some are good for geometric visual representation, some for analysis and simulation, etc, so always different geometry paradigms is a significant obstacle in integrating different worlds, for instance, GIS and BIM, or BIM and PLM, or VFX and BIM, so on
+* Geometry - As we know there are many geometry (modeling) paradigms, which some are good for geometric visual representation, some for analysis and simulation, etc, so always different geometry paradigms is a significant obstacle in integrating different worlds, for instance, GIS and BIM, or BIM and PLM, or VFX and BIM, so on
 * Semantics - Data/Information/Knowledge Units
 
-In this way can solve known challenges because they are modeled once globally through the best paradigm for that specific use-case and are ready-to-use in different worlds that can be assembled together (geometry and data/information/knowledge units) like LEGOs
+This way can solve known challenges because they modeled once globally through the best paradigm for that specific use-case and are ready-to-use in different worlds that can be assembled together (geometry and data/information/knowledge units) like LEGOs
 
 <p align="center">
   <img width="450" height="450" src="https://github.com/IfcXtreme/MaterialPass/blob/master/asset/img/Decoupling%20Geometry%20and%20Semantics%20-%20Ehsan%20Azari.png" alt="Decoupling Geometry and Semantics - Ehsan Azari">
