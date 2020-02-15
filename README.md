@@ -20,6 +20,10 @@ In this way, we can decouple geometry and semantics
 
 In this way can solve known challenges because they are modeled once globally through the best paradigm for that specific use-case and are ready-to-use in different worlds that can be assembled together (geometry and data/information/knowledge units) like LEGOs
 
+<p align="center">
+  <img width="450" height="450" src="https://github.com/IfcXtreme/MaterialPass/blob/master/asset/img/Decoupling%20Geometry%20and%20Semantics%20-%20Ehsan%20Azari.png" alt="Decoupling Geometry and Semantics - Ehsan Azari">
+</p>
+
 ### Usage
 1. Speed up System Dynamics and Circular Economy
 2. Integrating GIS, CAD, BIM, PLM, CAM, VFX, XR, and other different worlds together
