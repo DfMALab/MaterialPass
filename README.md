@@ -27,7 +27,7 @@ This way can solve known challenges because they modeled once globally through t
 ### Usage
 1. Speed up System Dynamics and Circular Economy
 2. Integrating GIS, CAD, BIM, PLM, CAM, VFX, XR, and other different worlds together
-3. Better focus on Geometry, Optics, Physics, and Perception which will advance some areas like Computer Graphics and Artificial Intelligence (AI), projects like [PyTorch3D](https://github.com/facebookresearch/pytorch3d)
+3. Better focus on Geometry, Optics, Physics, and Perception which will advance some areas like Computer Graphics and Artificial Intelligence (AI), projects like [Kaolin](https://github.com/NVIDIAGameWorks/kaolin) and [PyTorch3D](https://github.com/facebookresearch/pytorch3d)
 
 ### Proposal
 
