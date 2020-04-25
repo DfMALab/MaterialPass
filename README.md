@@ -15,7 +15,7 @@ MaterialPass materials as digital catalogs not only hold [Physically Based Rende
 
 In this way, we can decouple geometry and semantics
 
-* Geometry - As we know there are many geometry (modeling) paradigms, which some are good for geometric visual representation, some for analysis and simulation, etc, so always different geometry paradigms is a significant obstacle in integrating different worlds, for instance, GIS and BIM, or BIM and PLM, or VFX and BIM, so on
+* Geometry - As we know there are many geometric modeling paradigms, which some are good for geometric visual representation, some for analysis and simulation, etc, so always different geometric modeling paradigms is a significant obstacle in integrating different worlds, for instance, GIS and BIM, or BIM and PLM, or VFX and BIM, so on
 * Semantics - Data/Information/Knowledge Units
 
 This way can solve known challenges because they modeled once globally through the best paradigm for that specific use-case and are ready-to-use in different worlds that can be assembled together (geometry and data/information/knowledge units) like LEGOs
@@ -25,8 +25,8 @@ This way can solve known challenges because they modeled once globally through t
 </p>
 
 ### Usage
-1. Speed up System Dynamics and Circular Economy
-2. Integrating GIS, CAD, BIM, PLM, CAM, VFX, XR, and other different worlds together
+1. Speed up System Dynamics, Multi-Agent Systems and Circular Economy
+2. Integrating GIS, BIM, PLM, CAD, CAE, CAM, VFX, XR, and other different worlds together
 3. Better focus on Geometry, Optics, Physics, and Perception which will advance some areas like Computer Graphics and Artificial Intelligence (AI), projects like [Kaolin](https://github.com/NVIDIAGameWorks/kaolin) and [PyTorch3D](https://github.com/facebookresearch/pytorch3d)
 
 ### Proposal
